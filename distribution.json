@@ -11,7 +11,7 @@
       "name": "Thunderia — Serveur Principal",
       "description": "Serveur RPG avec donjons, boss épiques, magie et progression d'équipement.",
       "icon": "https://guererOfficiel.github.io/thunderia-files/assets/server_icon.png",
-      "address": "thunderia.fr",
+      "address": "thunderia.mine.fun",
       "port": 25565,
       "minecraftVersion": "1.20.1",
       "recommended": true,

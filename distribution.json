@@ -23,13 +23,13 @@
       },
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.20.1-47.2.0",
+          "id": "net.minecraftforge:forge:1.20.1-47.4.20",
           "name": "Forge 1.20.1",
           "type": "ForgeHosted",
           "artifact": {
             "size": 5000000,
-            "MD5": "CALCULE_AVEC_GET-FILEHASH",
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar"
+            "MD5": "CALCULE_FORGE_INSTALLER",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.20/forge-1.20.1-47.4.20-installer.jar"
           }
         },
         {
@@ -37,407 +37,316 @@
           "name": "Alex's Mobs",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 26350793,
-            "MD5": "504050d1f2e2c3019b6f53377ca354c6",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/alexsmobs-1.22.9.jar"
-          }
+          "artifact": { "size": 26350793, "MD5": "504050d1f2e2c3019b6f53377ca354c6", "url": "https://guererOfficiel.github.io/thunderia-files/mods/alexsmobs-1.22.9.jar" }
         },
         {
           "id": "curse.maven:apotheosis-248388:apotheosis-1.20.1-7.4.8",
           "name": "Apotheosis",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 2803994,
-            "MD5": "db02304c99d20ff51d4c2427d33c9044",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/Apotheosis-1.20.1-7.4.8.jar"
-          }
+          "artifact": { "size": 2803994, "MD5": "db02304c99d20ff51d4c2427d33c9044", "url": "https://guererOfficiel.github.io/thunderia-files/mods/Apotheosis-1.20.1-7.4.8.jar" }
+        },
+        {
+          "id": "curse.maven:apothic-attributes-898963:apothicattributes-1.20.1-1.3.7",
+          "name": "Apothic Attributes",
+          "type": "ForgeMod",
+          "required": { "value": true, "def": true },
+          "artifact": { "size": 227511, "MD5": "d4f8d1945416d5150cd67d27469b5ce9", "url": "https://guererOfficiel.github.io/thunderia-files/mods/ApothicAttributes-1.20.1-1.3.7.jar" }
         },
         {
           "id": "curse.maven:architectury-api-419699:architectury-9.2.14-forge",
           "name": "Architectury API",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 580602,
-            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/architectury-9.2.14-forge.jar"
-          }
+          "artifact": { "size": 580602, "MD5": "76b40d407b6bf0257dd1dab6d3d395d5", "url": "https://guererOfficiel.github.io/thunderia-files/mods/architectury-9.2.14-forge.jar" }
         },
         {
           "id": "curse.maven:ars-nouveau-401955:ars-nouveau-1.20.1-4.12.7",
           "name": "Ars Nouveau",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 12430237,
-            "MD5": "cdd1952cc0031831b37db0f6d6c6ceb1",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/ars_nouveau-1.20.1-4.12.7-all.jar"
-          }
+          "artifact": { "size": 12430237, "MD5": "cdd1952cc0031831b37db0f6d6c6ceb1", "url": "https://guererOfficiel.github.io/thunderia-files/mods/ars_nouveau-1.20.1-4.12.7-all.jar" }
+        },
+        {
+          "id": "curse.maven:balm-531761:balm-forge-1.20.1-7.3.38",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "required": { "value": true, "def": true },
+          "artifact": { "size": 591397, "MD5": "499467bc8050be8893b08995438cc026", "url": "https://guererOfficiel.github.io/thunderia-files/mods/balm-forge-1.20.1-7.3.38-all.jar" }
+        },
+        {
+          "id": "curse.maven:blueprint-382216:blueprint-1.20.1-7.1.3",
+          "name": "Blueprint",
+          "type": "ForgeMod",
+          "required": { "value": true, "def": true },
+          "artifact": { "size": 1151213, "MD5": "de8703f1bd1de5c64ebd411e37b19d47", "url": "https://guererOfficiel.github.io/thunderia-files/mods/blueprint-1.20.1-7.1.3.jar" }
         },
         {
           "id": "curse.maven:citadel-331936:citadel-2.6.3-1.20.1",
           "name": "Citadel",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 3185275,
-            "MD5": "da80c09b998d829b6d580e5be76dcc7b",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/citadel-2.6.3-1.20.1.jar"
-          }
+          "artifact": { "size": 3185275, "MD5": "da80c09b998d829b6d580e5be76dcc7b", "url": "https://guererOfficiel.github.io/thunderia-files/mods/citadel-2.6.3-1.20.1.jar" }
         },
         {
           "id": "curse.maven:clumps-256705:clumps-forge-1.20.1-12.0.0.4",
           "name": "Clumps",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 20299,
-            "MD5": "c9efc71827df6ab51e8dd0e40c3d4975",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/Clumps-forge-1.20.1-12.0.0.4.jar"
-          }
+          "artifact": { "size": 20299, "MD5": "c9efc71827df6ab51e8dd0e40c3d4975", "url": "https://guererOfficiel.github.io/thunderia-files/mods/Clumps-forge-1.20.1-12.0.0.4.jar" }
         },
         {
           "id": "curse.maven:curios-api-309927:curios-forge-5.14.1+1.20.1",
           "name": "Curios API",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 398066,
-            "MD5": "2fdcc97cbc66c4b2492b407c792e7159",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/curios-forge-5.14.1%2B1.20.1.jar"
-          }
+          "artifact": { "size": 398066, "MD5": "2fdcc97cbc66c4b2492b407c792e7159", "url": "https://guererOfficiel.github.io/thunderia-files/mods/curios-forge-5.14.1%2B1.20.1.jar" }
         },
         {
           "id": "curse.maven:dungeon-crawl-396525:dungeon-crawl-1.20.1-2.3.15",
           "name": "Dungeon Crawl",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 758123,
-            "MD5": "f53b840d17a5805630ec199087babe4b",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/Dungeon%20Crawl-1.20.1-2.3.15.jar"
-          }
+          "artifact": { "size": 758123, "MD5": "f53b840d17a5805630ec199087babe4b", "url": "https://guererOfficiel.github.io/thunderia-files/mods/Dungeon%20Crawl-1.20.1-2.3.15.jar" }
         },
         {
           "id": "curse.maven:when-dungeons-arise-491908:dungeonsarise-1.20.x-2.1.58",
           "name": "When Dungeons Arise",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 8762342,
-            "MD5": "6ac48d0cf2ce763824f96f6d26963219",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/DungeonsArise-1.20.x-2.1.58-release.jar"
-          }
+          "artifact": { "size": 8762342, "MD5": "6ac48d0cf2ce763824f96f6d26963219", "url": "https://guererOfficiel.github.io/thunderia-files/mods/DungeonsArise-1.20.x-2.1.58-release.jar" }
         },
         {
           "id": "curse.maven:ferritecore-429235:ferritecore-6.0.1-forge",
           "name": "FerriteCore",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 123034,
-            "MD5": "f52f538207a4829d7060550092ce2383",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/ferritecore-6.0.1-forge.jar"
-          }
+          "artifact": { "size": 123034, "MD5": "f52f538207a4829d7060550092ce2383", "url": "https://guererOfficiel.github.io/thunderia-files/mods/ferritecore-6.0.1-forge.jar" }
         },
         {
           "id": "curse.maven:ftb-chunks-314906:ftb-chunks-forge-2001.3.7",
           "name": "FTB Chunks",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 1159090,
-            "MD5": "d8487e3f9a53961adf7d23cb47e3e885",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/ftb-chunks-forge-2001.3.7.jar"
-          }
+          "artifact": { "size": 1159090, "MD5": "d8487e3f9a53961adf7d23cb47e3e885", "url": "https://guererOfficiel.github.io/thunderia-files/mods/ftb-chunks-forge-2001.3.7.jar" }
         },
         {
           "id": "curse.maven:ftb-library-404465:ftb-library-forge-2001.2.12",
           "name": "FTB Library",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 780523,
-            "MD5": "8bbd067159587d80f1c5286ea52e567b",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/ftb-library-forge-2001.2.12.jar"
-          }
+          "artifact": { "size": 780523, "MD5": "8bbd067159587d80f1c5286ea52e567b", "url": "https://guererOfficiel.github.io/thunderia-files/mods/ftb-library-forge-2001.2.12.jar" }
         },
         {
           "id": "curse.maven:ftb-teams-404468:ftb-teams-forge-2001.3.2",
           "name": "FTB Teams",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 252579,
-            "MD5": "1c547d6f1b22f461f84c5fb79067b0ec",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/ftb-teams-forge-2001.3.2.jar"
-          }
+          "artifact": { "size": 252579, "MD5": "1c547d6f1b22f461f84c5fb79067b0ec", "url": "https://guererOfficiel.github.io/thunderia-files/mods/ftb-teams-forge-2001.3.2.jar" }
         },
         {
           "id": "curse.maven:geckolib-388172:geckolib-forge-1.20.1-4.8.3",
           "name": "GeckoLib",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 1039046,
-            "MD5": "33b0f8fe0a8d59fcf9d4e222741ecba7",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/geckolib-forge-1.20.1-4.8.3.jar"
-          }
+          "artifact": { "size": 1039046, "MD5": "33b0f8fe0a8d59fcf9d4e222741ecba7", "url": "https://guererOfficiel.github.io/thunderia-files/mods/geckolib-forge-1.20.1-4.8.3.jar" }
         },
         {
           "id": "curse.maven:hexerei-477654:hexerei-0.4.2.3",
           "name": "Hexerei",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 11374032,
-            "MD5": "4ac6c0d223902e7a0cb3778e707fd05f",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/hexerei-0.4.2.3.jar"
-          }
+          "artifact": { "size": 11374032, "MD5": "4ac6c0d223902e7a0cb3778e707fd05f", "url": "https://guererOfficiel.github.io/thunderia-files/mods/hexerei-0.4.2.3.jar" }
         },
         {
           "id": "curse.maven:ice-and-fire-264594:iceandfire-2.1.13-1.20.1",
           "name": "Ice and Fire",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 21854126,
-            "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/iceandfire-2.1.13-1.20.1-beta-5.jar"
-          }
+          "artifact": { "size": 21854126, "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803", "url": "https://guererOfficiel.github.io/thunderia-files/mods/iceandfire-2.1.13-1.20.1-beta-5.jar" }
         },
         {
           "id": "curse.maven:inventory-hud-430669:inventoryhud-forge-1.20.1-3.4.26",
           "name": "Inventory HUD+",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 238088,
-            "MD5": "e1d1380697c2417cfaf6fdd42982a4d0",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/inventoryhud.forge.1.20.1-3.4.26.jar"
-          }
+          "clientOnly": true,
+          "artifact": { "size": 238088, "MD5": "e1d1380697c2417cfaf6fdd42982a4d0", "url": "https://guererOfficiel.github.io/thunderia-files/mods/inventoryhud.forge.1.20.1-3.4.26.jar" }
+        },
+        {
+          "id": "curse.maven:irons-lib-855746:irons-lib-1.20.1-1.0.2",
+          "name": "Iron's Lib",
+          "type": "ForgeMod",
+          "required": { "value": true, "def": true },
+          "artifact": { "size": 392806, "MD5": "836d1f4c8101c6f2b93e937ad73c445a", "url": "https://guererOfficiel.github.io/thunderia-files/mods/irons_lib-1.20.1-1.0.2.jar" }
         },
         {
           "id": "curse.maven:irons-spells-n-spellbooks-821484:irons-spellbooks-1.20.1-3.15.6",
           "name": "Iron's Spells 'n Spellbooks",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 15178473,
-            "MD5": "4962626373be2b03c7ee2bd55a596982",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/irons_spellbooks-1.20.1-3.15.6.jar"
-          }
+          "artifact": { "size": 15178473, "MD5": "4962626373be2b03c7ee2bd55a596982", "url": "https://guererOfficiel.github.io/thunderia-files/mods/irons_spellbooks-1.20.1-3.15.6.jar" }
         },
         {
           "id": "curse.maven:jade-324717:jade-1.20.1-forge-11.13.2",
           "name": "Jade",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 552486,
-            "MD5": "7c349670f77fd64b9e9854c4a8d82fcc",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/Jade-1.20.1-Forge-11.13.2.jar"
-          }
+          "artifact": { "size": 552486, "MD5": "7c349670f77fd64b9e9854c4a8d82fcc", "url": "https://guererOfficiel.github.io/thunderia-files/mods/Jade-1.20.1-Forge-11.13.2.jar" }
         },
         {
           "id": "curse.maven:jei-238222:jei-1.20.1-forge-15.20.0.130",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 1409705,
-            "MD5": "a47e80ce79ecbb6c60e28880ab997d1d",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/jei-1.20.1-forge-15.20.0.130.jar"
-          }
+          "artifact": { "size": 1409705, "MD5": "a47e80ce79ecbb6c60e28880ab997d1d", "url": "https://guererOfficiel.github.io/thunderia-files/mods/jei-1.20.1-forge-15.20.0.130.jar" }
         },
         {
           "id": "curse.maven:kotlin-for-forge-351264:kotlinforforge-4.12.0-all",
           "name": "Kotlin for Forge",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 7442998,
-            "MD5": "d6a40dede74edbe646b34a1bafd53b4d",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/kotlinforforge-4.12.0-all.jar"
-          }
+          "artifact": { "size": 7442998, "MD5": "d6a40dede74edbe646b34a1bafd53b4d", "url": "https://guererOfficiel.github.io/thunderia-files/mods/kotlinforforge-4.12.0-all.jar" }
         },
         {
           "id": "curse.maven:mowzies-mobs-229523:mowziesmobs-1.8.2",
           "name": "Mowzie's Mobs",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 36033850,
-            "MD5": "d650da053314d7384a537db1f316d11f",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/mowziesmobs-1.8.2.jar"
-          }
+          "artifact": { "size": 36033850, "MD5": "d650da053314d7384a537db1f316d11f", "url": "https://guererOfficiel.github.io/thunderia-files/mods/mowziesmobs-1.8.2.jar" }
         },
         {
           "id": "curse.maven:mutant-monsters-120646:mutantmonsters-v8.0.8-1.20.1",
           "name": "Mutant Monsters",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 1335037,
-            "MD5": "d7d8da51d86742ec6f021365bc99c3fb",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/MutantMonsters-v8.0.8-1.20.1-Forge.jar"
-          }
+          "artifact": { "size": 1335037, "MD5": "d7d8da51d86742ec6f021365bc99c3fb", "url": "https://guererOfficiel.github.io/thunderia-files/mods/MutantMonsters-v8.0.8-1.20.1-Forge.jar" }
+        },
+        {
+          "id": "curse.maven:mutil-351264:mutil-1.20.1-6.3.0",
+          "name": "Mutil",
+          "type": "ForgeMod",
+          "required": { "value": true, "def": true },
+          "artifact": { "size": 100449, "MD5": "5ce8e70ca323cf127d56d2ad106ec05b", "url": "https://guererOfficiel.github.io/thunderia-files/mods/mutil-1.20.1-6.3.0.jar" }
         },
         {
           "id": "curse.maven:oculus-581495:oculus-mc1.20.1-1.8.0",
           "name": "Oculus (Shaders)",
           "type": "ForgeMod",
           "required": { "value": false, "def": false },
-          "artifact": {
-            "size": 2851119,
-            "MD5": "1dd891634ac21591b5a692471f112572",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/oculus-mc1.20.1-1.8.0.jar"
-          }
+          "artifact": { "size": 2851119, "MD5": "1dd891634ac21591b5a692471f112572", "url": "https://guererOfficiel.github.io/thunderia-files/mods/oculus-mc1.20.1-1.8.0.jar" }
         },
         {
           "id": "curse.maven:patchouli-306770:patchouli-1.20.1-85-forge",
           "name": "Patchouli",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 642732,
-            "MD5": "78bd223d069fa9491e940d99a8f426b3",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/Patchouli-1.20.1-85-FORGE.jar"
-          }
+          "artifact": { "size": 642732, "MD5": "78bd223d069fa9491e940d99a8f426b3", "url": "https://guererOfficiel.github.io/thunderia-files/mods/Patchouli-1.20.1-85-FORGE.jar" }
+        },
+        {
+          "id": "curse.maven:placebo-283644:placebo-1.20.1-8.6.3",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "required": { "value": true, "def": true },
+          "artifact": { "size": 282474, "MD5": "13133ab9989e8474931cd7a86bd19cc5", "url": "https://guererOfficiel.github.io/thunderia-files/mods/Placebo-1.20.1-8.6.3.jar" }
+        },
+        {
+          "id": "curse.maven:player-animator-658587:player-animation-lib-forge-1.0.2",
+          "name": "Player Animator",
+          "type": "ForgeMod",
+          "required": { "value": true, "def": true },
+          "artifact": { "size": 181437, "MD5": "46f8554181d4d240075ea4919d01fd01", "url": "https://guererOfficiel.github.io/thunderia-files/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar" }
+        },
+        {
+          "id": "curse.maven:puzzles-lib-477rescue:puzzleslib-v8.1.33-1.20.1-forge",
+          "name": "Puzzles Lib",
+          "type": "ForgeMod",
+          "required": { "value": true, "def": true },
+          "artifact": { "size": 1342987, "MD5": "19f23e3040eaadc7c30ae38f5a3dec68", "url": "https://guererOfficiel.github.io/thunderia-files/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar" }
         },
         {
           "id": "curse.maven:rubidium-574458:rubidium-mc1.20.1-0.7.1a",
           "name": "Rubidium",
           "type": "ForgeMod",
           "required": { "value": false, "def": true },
-          "artifact": {
-            "size": 715190,
-            "MD5": "234d6ddfff9313fb943abf4d038fe5f4",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/rubidium-mc1.20.1-0.7.1a.jar"
-          }
+          "artifact": { "size": 715190, "MD5": "234d6ddfff9313fb943abf4d038fe5f4", "url": "https://guererOfficiel.github.io/thunderia-files/mods/rubidium-mc1.20.1-0.7.1a.jar" }
         },
         {
           "id": "curse.maven:spartan-weaponry-253258:spartanweaponry-1.20.1-forge-3.2.1",
           "name": "Spartan Weaponry",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 2834011,
-            "MD5": "d52d9b73cae7d0e91c2b48faccb90e10",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar"
-          }
+          "artifact": { "size": 2834011, "MD5": "d52d9b73cae7d0e91c2b48faccb90e10", "url": "https://guererOfficiel.github.io/thunderia-files/mods/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar" }
         },
         {
           "id": "curse.maven:tetra-289712:tetra-1.20.1-6.14.0",
           "name": "Tetra",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 4022105,
-            "MD5": "1201699775cc1bac5f13724c794f8ca6",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/tetra-1.20.1-6.14.0.jar"
-          }
+          "artifact": { "size": 4022105, "MD5": "1201699775cc1bac5f13724c794f8ca6", "url": "https://guererOfficiel.github.io/thunderia-files/mods/tetra-1.20.1-6.14.0.jar" }
         },
         {
           "id": "curse.maven:travelers-titles-603520:travelerstittles-1.20-forge-4.0.2",
           "name": "Traveler's Titles",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 228191,
-            "MD5": "c9052dc79261ec5cd3a243cb031a2164",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/TravelersTitles-1.20-Forge-4.0.2.jar"
-          }
+          "artifact": { "size": 228191, "MD5": "c9052dc79261ec5cd3a243cb031a2164", "url": "https://guererOfficiel.github.io/thunderia-files/mods/TravelersTitles-1.20-Forge-4.0.2.jar" }
         },
         {
           "id": "curse.maven:unusual-end-564890:unusualend-2.3.1.1",
           "name": "Unusual End",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 20128133,
-            "MD5": "344e28960f520e1e83f5e60277406758",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/unusualend-2.3.1.1.jar"
-          }
+          "artifact": { "size": 20128133, "MD5": "344e28960f520e1e83f5e60277406758", "url": "https://guererOfficiel.github.io/thunderia-files/mods/unusualend-2.3.1.1.jar" }
         },
         {
           "id": "curse.maven:waystones-245755:waystones-forge-1.20.1-14.1.20",
           "name": "Waystones",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 533738,
-            "MD5": "eb4dcdc36470b7fd858c39547ad1c7d2",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/waystones-forge-1.20.1-14.1.20.jar"
-          }
+          "artifact": { "size": 533738, "MD5": "eb4dcdc36470b7fd858c39547ad1c7d2", "url": "https://guererOfficiel.github.io/thunderia-files/mods/waystones-forge-1.20.1-14.1.20.jar" }
         },
         {
           "id": "curse.maven:xaeros-minimap-263420:xaerominimap-forge-1.20.1-25.3.10",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 2146522,
-            "MD5": "2847dc482588772ec551a5b5112dc686",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/xaerominimap-forge-1.20.1-25.3.10.jar"
-          }
+          "artifact": { "size": 2146522, "MD5": "2847dc482588772ec551a5b5112dc686", "url": "https://guererOfficiel.github.io/thunderia-files/mods/xaerominimap-forge-1.20.1-25.3.10.jar" }
         },
         {
           "id": "curse.maven:xaeros-world-map-317780:xaeroworldmap-forge-1.20.1-1.40.11",
           "name": "Xaero's World Map",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 1388342,
-            "MD5": "d8624a1b587fbcd28d8f5dc5b13399d4",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar"
-          }
+          "artifact": { "size": 1388342, "MD5": "d8624a1b587fbcd28d8f5dc5b13399d4", "url": "https://guererOfficiel.github.io/thunderia-files/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar" }
         },
         {
           "id": "curse.maven:yungs-api-421850:yungsapi-1.20-forge-4.0.6",
           "name": "YUNG's API",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 370524,
-            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/YungsApi-1.20-Forge-4.0.6.jar"
-          }
+          "artifact": { "size": 370524, "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c", "url": "https://guererOfficiel.github.io/thunderia-files/mods/YungsApi-1.20-Forge-4.0.6.jar" }
         },
         {
           "id": "curse.maven:yungs-better-dungeons-370614:yungsbetterdungeons-1.20-forge-4.0.4",
           "name": "YUNG's Better Dungeons",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 792381,
-            "MD5": "2de2f1be8f528ad139003bb5c73d49f3",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
-          }
+          "artifact": { "size": 792381, "MD5": "2de2f1be8f528ad139003bb5c73d49f3", "url": "https://guererOfficiel.github.io/thunderia-files/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar" }
         },
         {
           "id": "curse.maven:yungs-better-mineshafts-336242:yungsbettermineshafts-1.20-forge-4.0.4",
           "name": "YUNG's Better Mineshafts",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 492998,
-            "MD5": "fe8d205c98cb02840d46646fb7cf5ab8",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
-          }
+          "artifact": { "size": 492998, "MD5": "fe8d205c98cb02840d46646fb7cf5ab8", "url": "https://guererOfficiel.github.io/thunderia-files/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar" }
         },
         {
           "id": "curse.maven:yungs-better-strongholds-401484:yungsbetterstrongholds-1.20-forge-4.0.3",
           "name": "YUNG's Better Strongholds",
           "type": "ForgeMod",
           "required": { "value": true, "def": true },
-          "artifact": {
-            "size": 473564,
-            "MD5": "8c00ed5d2bab232040a1d4d0ef746ae6",
-            "url": "https://guererOfficiel.github.io/thunderia-files/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
-          }
+          "artifact": { "size": 473564, "MD5": "8c00ed5d2bab232040a1d4d0ef746ae6", "url": "https://guererOfficiel.github.io/thunderia-files/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar" }
         }
       ]
     }

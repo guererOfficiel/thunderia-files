@@ -1,0 +1,221 @@
+{
+  "version": "1.0.0",
+  "discord": {
+    "clientId": "TON_CLIENT_ID_DISCORD",
+    "smallImageText": "Thunderia",
+    "smallImageKey": "thunderia_logo"
+  },
+  "servers": [
+    {
+      "id": "thunderia_main",
+      "name": "Thunderia — Serveur Principal",
+      "description": "Serveur RPG avec donjons, boss épiques, magie et progression d'équipement.",
+      "icon": "https://ton-site.fr/assets/server_icon.png",
+      "address": "thunderia.fr",
+      "port": 25565,
+      "minecraftVersion": "1.20.1",
+      "recommended": true,
+      "defaultSelected": true,
+      "discord": {
+        "shortId": "Thunderia",
+        "largeImageText": "Thunderia RPG",
+        "largeImageKey": "thunderia_banner"
+      },
+      "modules": [
+
+        {
+          "id": "net.minecraftforge:forge:1.20.1-47.2.0",
+          "name": "Forge 1.20.1",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 5000000,
+            "MD5": "FORGE_MD5_ICI",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-installer.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:jei-238222:5189897",
+          "name": "Just Enough Items (JEI)",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1200000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/jei-1.20.1-15.3.0.4.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:apotheosis-248388:5000000",
+          "name": "Apotheosis",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 3500000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/apotheosis-1.20.1-6.3.6.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:ars-nouveau-401955:5000001",
+          "name": "Ars Nouveau",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 8000000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/ars_nouveau-1.20.1-4.9.0.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:ice-and-fire-264594:5000002",
+          "name": "Ice and Fire",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 6000000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/iceandfire-1.20.1-2.1.14.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:when-dungeons-arise-491908:5000003",
+          "name": "When Dungeons Arise",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 4000000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/when_dungeons_arise-1.20.1-2.1.54.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:spartan-weaponry-253258:5000004",
+          "name": "Spartan Weaponry",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 2500000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/spartanweaponry-1.20.1-2.0.11.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:mowzies-mobs-229523:5000005",
+          "name": "Mowzie's Mobs",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 3000000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/mowziesmobs-1.20.1-1.6.1.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:playerex-400506:5000006",
+          "name": "PlayerEx (RPG Stats)",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 1000000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/playerex-1.20.1-3.5.3.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:waystones-245755:5000007",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 800000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/waystones-1.20.1-14.1.3.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:curios-api-309927:5000008",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 500000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/curios-forge-1.20.1-5.7.0.jar"
+          }
+        },
+
+        {
+          "id": "curse.maven:ftb-chunks-314906:5000009",
+          "name": "FTB Chunks",
+          "type": "ForgeMod",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 900000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/mods/ftb-chunks-forge-1.20.1-2001.1.4.jar"
+          }
+        },
+
+        {
+          "id": "fr.thunderia:thunderia-config:1.0.0",
+          "name": "Configuration Thunderia",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 5000,
+            "MD5": "REMPLACER_PAR_MD5_REEL",
+            "url": "https://ton-site.fr/config/thunderia-config.zip",
+            "path": "config/thunderia-config.zip"
+          }
+        }
+
+      ]
+    }
+  ]
+}

@@ -191,20 +191,6 @@
           "artifact": {"size": 123034,"MD5": "f52f538207a4829d7060550092ce2383","url": "https://guererOfficiel.github.io/thunderia-files/mods/ferritecore-6.0.1-forge.jar"}
         },
         {
-          "id": "curse.maven:ftb-chunks-314906:ftb-chunks-forge-2001.3.7",
-          "name": "FTB Chunks",
-          "type": "ForgeMod",
-          "required": {"value": true,"def": true},
-          "artifact": {"size": 1159090,"MD5": "d8487e3f9a53961adf7d23cb47e3e885","url": "https://guererOfficiel.github.io/thunderia-files/mods/ftb-chunks-forge-2001.3.7.jar"}
-        },
-        {
-          "id": "curse.maven:ftb-teams-404468:ftb-teams-forge-2001.3.2",
-          "name": "FTB Teams",
-          "type": "ForgeMod",
-          "required": {"value": true,"def": true},
-          "artifact": {"size": 252579,"MD5": "1c547d6f1b22f461f84c5fb79067b0ec","url": "https://guererOfficiel.github.io/thunderia-files/mods/ftb-teams-forge-2001.3.2.jar"}
-        },
-        {
           "id": "curse.maven:geckolib-388172:geckolib-forge-1.20.1-4.8.3",
           "name": "GeckoLib",
           "type": "ForgeMod",

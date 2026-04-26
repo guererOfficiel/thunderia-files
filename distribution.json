@@ -142,13 +142,6 @@
           "artifact": {"size": 591397,"MD5": "499467bc8050be8893b08995438cc026","url": "https://guererOfficiel.github.io/thunderia-files/mods/balm-forge-1.20.1-7.3.38-all.jar"}
         },
         {
-          "id": "curse.maven:blueprint-382216:blueprint-1.20.1-7.1.3",
-          "name": "Blueprint",
-          "type": "ForgeMod",
-          "required": {"value": true,"def": true},
-          "artifact": {"size": 1151213,"MD5": "de8703f1bd1de5c64ebd411e37b19d47","url": "https://guererOfficiel.github.io/thunderia-files/mods/blueprint-1.20.1-7.1.3.jar"}
-        },
-        {
           "id": "curse.maven:citadel-331936:citadel-2.6.3-1.20.1",
           "name": "Citadel",
           "type": "ForgeMod",
@@ -276,13 +269,6 @@
           "artifact": {"size": 181437,"MD5": "46f8554181d4d240075ea4919d01fd01","url": "https://guererOfficiel.github.io/thunderia-files/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"}
         },
         {
-          "id": "curse.maven:puzzles-lib-477rescue:puzzleslib-v8.1.33-1.20.1-forge",
-          "name": "Puzzles Lib",
-          "type": "ForgeMod",
-          "required": {"value": true,"def": true},
-          "artifact": {"size": 1342987,"MD5": "19f23e3040eaadc7c30ae38f5a3dec68","url": "https://guererOfficiel.github.io/thunderia-files/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"}
-        },
-        {
           "id": "curse.maven:rubidium-574458:rubidium-mc1.20.1-0.7.1a",
           "name": "Rubidium",
           "type": "ForgeMod",
@@ -302,13 +288,6 @@
           "type": "ForgeMod",
           "required": {"value": true,"def": true},
           "artifact": {"size": 228191,"MD5": "c9052dc79261ec5cd3a243cb031a2164","url": "https://guererOfficiel.github.io/thunderia-files/mods/TravelersTitles-1.20-Forge-4.0.2.jar"}
-        },
-        {
-          "id": "curse.maven:unusual-end-564890:unusualend-2.3.1.1",
-          "name": "Unusual End",
-          "type": "ForgeMod",
-          "required": {"value": true,"def": true},
-          "artifact": {"size": 20128133,"MD5": "344e28960f520e1e83f5e60277406758","url": "https://guererOfficiel.github.io/thunderia-files/mods/unusualend-2.3.1.1.jar"}
         },
         {
           "id": "curse.maven:xaeros-minimap-263420:xaerominimap-forge-1.20.1-25.3.10",

@@ -4,9 +4,9 @@
         "Our efforts are supported by ads from the download page.",
         "If you MUST automate this, please consider supporting the project through https://www.patreon.com/LexManos/"
     ],
-    "id": "1.20.1-forge-47.1.0",
-    "time": "2023-07-07T03:34:19+00:00",
-    "releaseTime": "2023-07-07T03:34:19+00:00",
+    "id": "1.20.1-forge-47.0.14",
+    "time": "2023-06-20T21:50:50+00:00",
+    "releaseTime": "2023-06-20T21:50:50+00:00",
     "type": "release",
     "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
     "inheritsFrom": "1.20.1",
@@ -18,7 +18,7 @@
             "--launchTarget",
             "forgeclient",
             "--fml.forgeVersion",
-            "47.1.0",
+            "47.0.14",
             "--fml.mcVersion",
             "1.20.1",
             "--fml.forgeGroup",
@@ -135,24 +135,24 @@
             }
         },
         {
-            "name": "net.minecraftforge:eventbus:6.0.5",
+            "name": "net.minecraftforge:eventbus:6.0.3",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar",
-                    "url": "https://maven.minecraftforge.net/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar",
-                    "sha1": "699143dd438431d06b57416944f7cedbe52e1475",
-                    "size": 53985
+                    "path": "net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar",
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar",
+                    "sha1": "42fe522ace1bbcbcbba9c880c42411857baf36a9",
+                    "size": 52624
                 }
             }
         },
         {
-            "name": "net.minecraftforge:forgespi:7.0.1",
+            "name": "net.minecraftforge:forgespi:7.0.0",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar",
-                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar",
-                    "sha1": "3b4972a0cdb135853dba219be61a79b22cff1309",
-                    "size": 29831
+                    "path": "net/minecraftforge/forgespi/7.0.0/forgespi-7.0.0.jar",
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forgespi/7.0.0/forgespi-7.0.0.jar",
+                    "sha1": "3384d464dd41882795af8622a8025056dc8de31d",
+                    "size": 30602
                 }
             }
         },
@@ -234,13 +234,13 @@
             }
         },
         {
-            "name": "net.jodah:typetools:0.6.3",
+            "name": "net.jodah:typetools:0.8.3",
             "downloads": {
                 "artifact": {
-                    "path": "net/jodah/typetools/0.6.3/typetools-0.6.3.jar",
-                    "url": "https://maven.minecraftforge.net/net/jodah/typetools/0.6.3/typetools-0.6.3.jar",
-                    "sha1": "a01aaa6ddaea9ec07ec4f209487b7a46a526283a",
-                    "size": 18281
+                    "path": "net/jodah/typetools/0.8.3/typetools-0.8.3.jar",
+                    "url": "https://maven.minecraftforge.net/net/jodah/typetools/0.8.3/typetools-0.8.3.jar",
+                    "sha1": "98f84f353457629e81cc6827224871b1a8faa7af",
+                    "size": 15425
                 }
             }
         },
@@ -344,24 +344,24 @@
             }
         },
         {
-            "name": "net.minecraftforge:fmlloader:1.20.1-47.1.0",
+            "name": "net.minecraftforge:fmlloader:1.20.1-47.0.14",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/fmlloader/1.20.1-47.1.0/fmlloader-1.20.1-47.1.0.jar",
-                    "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.20.1-47.1.0/fmlloader-1.20.1-47.1.0.jar",
-                    "sha1": "f7b5e4ef130d184e0ea48e6d8bf0a2d90757e8c6",
-                    "size": 264248
+                    "path": "net/minecraftforge/fmlloader/1.20.1-47.0.14/fmlloader-1.20.1-47.0.14.jar",
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.20.1-47.0.14/fmlloader-1.20.1-47.0.14.jar",
+                    "sha1": "1521e54e9b834ab57302c7fc16a39e11993b6ea3",
+                    "size": 263366
                 }
             }
         },
         {
-            "name": "net.minecraftforge:fmlearlydisplay:1.20.1-47.1.0",
+            "name": "net.minecraftforge:fmlearlydisplay:1.20.1-47.0.14",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/fmlearlydisplay/1.20.1-47.1.0/fmlearlydisplay-1.20.1-47.1.0.jar",
-                    "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.1.0/fmlearlydisplay-1.20.1-47.1.0.jar",
-                    "sha1": "faf61a8a8cc80e82a5691fac00149f06eeaf0438",
-                    "size": 3690963
+                    "path": "net/minecraftforge/fmlearlydisplay/1.20.1-47.0.14/fmlearlydisplay-1.20.1-47.0.14.jar",
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.0.14/fmlearlydisplay-1.20.1-47.0.14.jar",
+                    "sha1": "6cce25140f896b49150c765ee4a40310951b0bf7",
+                    "size": 3689049
                 }
             }
         }

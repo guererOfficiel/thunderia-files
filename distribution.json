@@ -23,22 +23,22 @@
       },
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.20.1-47.4.20",
-          "name": "Forge 1.20.1-47.4.20",
+          "id": "net.minecraftforge:forge:1.20.1-47.1.0",
+          "name": "Forge 1.20.1-47.1.0",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 8835110,
-            "MD5": "f3dcf8197c22e3f8ba717dbbbfe74ec6",
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.20/forge-1.20.1-47.4.20-installer.jar"
+            "size": 5910384,
+            "MD5": "11f95f136ae7d20c7173d4766f73472d",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.1.0/forge-1.20.1-47.1.0-installer.jar"
           },
           "subModules": [
             {
-              "id": "net.minecraftforge-forge-1.20.1-47.4.20-version-manifest",
+              "id": "net.minecraftforge-forge-1.20.1-47.1.0-version-manifest",
               "name": "Forge Version Manifest",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16629,
-                "MD5": "164e2a500d5c3ba06ddb5da9d64c4f3d",
+                "size": 16543,
+                "MD5": "5d4418ab2506cf5633992d4a41d104af",
                 "url": "https://guererOfficiel.github.io/thunderia-files/forge/version.json"
               }
             }

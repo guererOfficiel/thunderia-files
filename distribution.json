@@ -27,7 +27,7 @@
           "name": "Forge 1.20.1-47.4.20",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 5883466,
+            "size": 8835110,
             "MD5": "F132738665FD7159682AF85B9742F887",
             "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.20/forge-1.20.1-47.4.20-installer.jar"
           },
@@ -47,7 +47,7 @@
               "name": "FML Loader",
               "type": "Library",
               "artifact": {
-                "size": 1,
+                "size": 270672,
                 "MD5": "29197F7093C8B9D058BDD22BC871C5CC",
                 "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlloader/1.20.1-47.4.20/fmlloader-1.20.1-47.4.20.jar",
                 "path": "net/minecraftforge/fmlloader/1.20.1-47.4.20/fmlloader-1.20.1-47.4.20.jar"
@@ -58,7 +58,7 @@
               "name": "FML Core",
               "type": "Library",
               "artifact": {
-                "size": 1,
+                "size": 118909,
                 "MD5": "E8E34EF2CE04F87145A6CC2095C341C4",
                 "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlcore/1.20.1-47.4.20/fmlcore-1.20.1-47.4.20.jar",
                 "path": "net/minecraftforge/fmlcore/1.20.1-47.4.20/fmlcore-1.20.1-47.4.20.jar"
@@ -69,7 +69,7 @@
               "name": "Java FML Language",
               "type": "Library",
               "artifact": {
-                "size": 1,
+                "size": 16851,
                 "MD5": "F1F54E5194C89F78A95D1366CEC09CAA",
                 "url": "https://maven.minecraftforge.net/net/minecraftforge/javafmllanguage/1.20.1-47.4.20/javafmllanguage-1.20.1-47.4.20.jar",
                 "path": "net/minecraftforge/javafmllanguage/1.20.1-47.4.20/javafmllanguage-1.20.1-47.4.20.jar"
@@ -80,7 +80,7 @@
               "name": "Low Code Language",
               "type": "Library",
               "artifact": {
-                "size": 1,
+                "size": 7394,
                 "MD5": "07F68BFDEA3E3CDC7AEFA32749BEA73F",
                 "url": "https://maven.minecraftforge.net/net/minecraftforge/lowcodelanguage/1.20.1-47.4.20/lowcodelanguage-1.20.1-47.4.20.jar",
                 "path": "net/minecraftforge/lowcodelanguage/1.20.1-47.4.20/lowcodelanguage-1.20.1-47.4.20.jar"
@@ -91,7 +91,7 @@
               "name": "MC Language",
               "type": "Library",
               "artifact": {
-                "size": 1,
+                "size": 4994,
                 "MD5": "7A20845B12C924D53FB3C6A412E3AC02",
                 "url": "https://maven.minecraftforge.net/net/minecraftforge/mclanguage/1.20.1-47.4.20/mclanguage-1.20.1-47.4.20.jar",
                 "path": "net/minecraftforge/mclanguage/1.20.1-47.4.20/mclanguage-1.20.1-47.4.20.jar"

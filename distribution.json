@@ -33,7 +33,7 @@
           },
           "subModules": [
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.20:version-manifest",
+              "id": "net.minecraftforge-forge-1.20.1-47.4.20-version-manifest",
               "name": "Forge Version Manifest",
               "type": "VersionManifest",
               "artifact": {

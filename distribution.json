@@ -241,13 +241,6 @@
           "artifact": {"size": 7442998,"MD5": "d6a40dede74edbe646b34a1bafd53b4d","url": "https://guererOfficiel.github.io/thunderia-files/mods/kotlinforforge-4.12.0-all.jar"}
         },
         {
-          "id": "curse.maven:mutant-monsters-120646:mutantmonsters-v8.0.8-1.20.1",
-          "name": "Mutant Monsters",
-          "type": "ForgeMod",
-          "required": {"value": true,"def": true},
-          "artifact": {"size": 1335037,"MD5": "d7d8da51d86742ec6f021365bc99c3fb","url": "https://guererOfficiel.github.io/thunderia-files/mods/MutantMonsters-v8.0.8-1.20.1-Forge.jar"}
-        },
-        {
           "id": "curse.maven:mutil-351264:mutil-1.20.1-6.3.0",
           "name": "Mutil",
           "type": "ForgeMod",
